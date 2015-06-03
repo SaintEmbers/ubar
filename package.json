@@ -1,0 +1,12 @@
+{
+  "name": "ubar",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "ejs": "^2.3.1",
+    "express": "^4.12.4",
+    "express-session": "^1.11.2",
+    "passport": "^0.2.2",
+    "passport-uber": "0.0.1"
+  }
+}
